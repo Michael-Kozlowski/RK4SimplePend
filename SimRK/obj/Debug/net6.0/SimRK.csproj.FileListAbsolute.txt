@@ -1,0 +1,12 @@
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\bin\Debug\net6.0\SimRK.deps.json
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\bin\Debug\net6.0\SimRK.dll
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\bin\Debug\net6.0\ref\SimRK.dll
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\bin\Debug\net6.0\SimRK.pdb
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\obj\Debug\net6.0\SimRK.csproj.AssemblyReference.cache
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\obj\Debug\net6.0\SimRK.GeneratedMSBuildEditorConfig.editorconfig
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\obj\Debug\net6.0\SimRK.AssemblyInfoInputs.cache
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\obj\Debug\net6.0\SimRK.AssemblyInfo.cs
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\obj\Debug\net6.0\SimRK.csproj.CoreCompileInputs.cache
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\obj\Debug\net6.0\SimRK.dll
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\obj\Debug\net6.0\ref\SimRK.dll
+C:\MEE484\InClassPrograms\SimplePendRK\SimRK\obj\Debug\net6.0\SimRK.pdb
